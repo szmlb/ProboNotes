@@ -1,9 +1,0 @@
-#### probonotes
-
----
-
-hoge
-
----
-
-\boldsymbol{x}
