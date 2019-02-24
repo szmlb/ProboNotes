@@ -1,7 +1,7 @@
 ---?include=./PITCHME.md
 
-*** additional pages
+#### additional pages
 
 ---
 
-*** hogehoge
+#### hogehoge
